@@ -1,0 +1,9 @@
+exp_starts
+epoch 322002 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 5.23%, top3_acc is : 3.21%, top1_acc is : 0.95%, top5_hit_count is : 17476.000000, top3_hit_count is : 10705.000000, top1_hit_count is : 3176.000000, total count is : 333938.000000.
+epoch 276003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 5.19%, top3_acc is : 3.14%, top1_acc is : 0.94%, top5_hit_count is : 17329.000000, top3_hit_count is : 10493.000000, top1_hit_count is : 3134.000000, total count is : 333938.000000.
+epoch 138003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 5.17%, top3_acc is : 3.03%, top1_acc is : 0.84%, top5_hit_count is : 17266.000000, top3_hit_count is : 10127.000000, top1_hit_count is : 2801.000000, total count is : 333938.000000.
+epoch 92004 starts
+Expect

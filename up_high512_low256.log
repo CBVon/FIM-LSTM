@@ -1,0 +1,29 @@
+exp_starts
+epoch 644003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 46.04%, top3_acc is : 38.61%, top1_acc is : 23.87%, top5_hit_count is : 153758.000000, top3_hit_count is : 128938.000000, top1_hit_count is : 79727.000000, total count is : 333938.000000.
+epoch 598003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 46.18%, top3_acc is : 38.72%, top1_acc is : 23.91%, top5_hit_count is : 154202.000000, top3_hit_count is : 129312.000000, top1_hit_count is : 79856.000000, total count is : 333938.000000.
+epoch 552003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 46.24%, top3_acc is : 38.77%, top1_acc is : 24.04%, top5_hit_count is : 154418.000000, top3_hit_count is : 129461.000000, top1_hit_count is : 80274.000000, total count is : 333938.000000.
+epoch 506003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 46.05%, top3_acc is : 38.65%, top1_acc is : 23.89%, top5_hit_count is : 153767.000000, top3_hit_count is : 129079.000000, top1_hit_count is : 79771.000000, total count is : 333938.000000.
+epoch 460003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 46.13%, top3_acc is : 38.59%, top1_acc is : 23.80%, top5_hit_count is : 154034.000000, top3_hit_count is : 128881.000000, top1_hit_count is : 79466.000000, total count is : 333938.000000.
+epoch 414003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 45.86%, top3_acc is : 38.49%, top1_acc is : 23.74%, top5_hit_count is : 153158.000000, top3_hit_count is : 128536.000000, top1_hit_count is : 79268.000000, total count is : 333938.000000.
+epoch 368003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 45.79%, top3_acc is : 38.46%, top1_acc is : 23.73%, top5_hit_count is : 152920.000000, top3_hit_count is : 128420.000000, top1_hit_count is : 79250.000000, total count is : 333938.000000.
+epoch 322003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 46.05%, top3_acc is : 38.54%, top1_acc is : 23.77%, top5_hit_count is : 153794.000000, top3_hit_count is : 128698.000000, top1_hit_count is : 79383.000000, total count is : 333938.000000.
+epoch 276002 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 45.91%, top3_acc is : 38.45%, top1_acc is : 23.90%, top5_hit_count is : 153320.000000, top3_hit_count is : 128397.000000, top1_hit_count is : 79802.000000, total count is : 333938.000000.
+epoch 230003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 45.92%, top3_acc is : 38.31%, top1_acc is : 23.75%, top5_hit_count is : 153344.000000, top3_hit_count is : 127941.000000, top1_hit_count is : 79310.000000, total count is : 333938.000000.
+epoch 184003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 45.81%, top3_acc is : 38.38%, top1_acc is : 23.71%, top5_hit_count is : 152975.000000, top3_hit_count is : 128149.000000, top1_hit_count is : 79183.000000, total count is : 333938.000000.
+epoch 138002 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 45.68%, top3_acc is : 38.29%, top1_acc is : 23.49%, top5_hit_count is : 152554.000000, top3_hit_count is : 127869.000000, top1_hit_count is : 78454.000000, total count is : 333938.000000.
+epoch 92003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 45.51%, top3_acc is : 38.00%, top1_acc is : 23.63%, top5_hit_count is : 151972.000000, top3_hit_count is : 126894.000000, top1_hit_count is : 78917.000000, total count is : 333938.000000.
+epoch 46003 starts
+../../data/testsets/up_total_small_transfered_digit_nohead's predict acc is >>> top5_acc is : 44.94%, top3_acc is : 37.63%, top1_acc is : 23.17%, top5_hit_count is : 150063.000000, top3_hit_count is : 125663.000000, top1_hit_count is : 77371.000000, total count is : 333938.000000.
